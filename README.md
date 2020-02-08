@@ -1,1 +1,1 @@
-My Django-practice files
+My Django-practice files are
